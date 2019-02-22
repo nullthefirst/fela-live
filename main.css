@@ -1,0 +1,10 @@
+body {
+  color: #3cb371;
+  text-align: center;
+  background-color: #212121;
+}
+
+#image {
+  width: 20%;
+  height: auto;
+}
