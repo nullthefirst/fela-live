@@ -14,3 +14,15 @@ img {
   display: block;
   padding: 1% 40% 1% 40%;
 }
+
+#img-caption {
+  color: #c0c0c0;
+}
+
+#tribute-info {
+  padding: 1% 40% 1% 40%;
+}
+
+a:link, a:visited, a:hover {
+  color: #c0c0c0;
+}
